@@ -40,7 +40,7 @@ Opponent (black boxer) is the built-in Atari AI.
 
 The environment returns visual observations, which are processed and stacked to form the agent's input.
 
-📹 Output
+Output
 
 After training, a sample gameplay is saved as an MP4 video (requires imageio-ffmpeg backend).
 
